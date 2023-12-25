@@ -41,6 +41,18 @@ You want to help? Great! 🙏
 
 ---
 
+---
+
+# Template Usage
+
+Adapt the project files as needed
+
+## Benefits
+
+* Speed up the project initialization
+* Comply with [community standards](https://opensource.guide/starting-a-project/#launching-your-own-open-source-project)
+* Achieve a positive contributor experience
+
 ## License of Template
 
 License of this template is [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Attribution is not required although we do appreciate it. 😊
