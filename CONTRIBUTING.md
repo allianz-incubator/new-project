@@ -1,23 +1,6 @@
-<!-- 
-This document can serve the basis of a contribution guide. Please update all TODO marked places and remove the instructions afterwards.
 
-Additional information:
-* Allianz OSPO: TODO URL
-* How-to: https://opensource.com/life/16/3/contributor-guidelines-template-and-tips
-* Example: https://github.com/atom/atom/blob/master/CONTRIBUTING.md
--->
 
 # Contributing Guidelines
-
-  * [Reporting a Security Issue](#reporting-a-security-issue)
-  * [Getting Started](#getting-started)
-  * [Getting Help](#getting-help)
-  * [Office Hours](#office-hours)
-  * [Development Environment Setup](#development-environment-setup)
-  * [Pull Request Lifecycle](#pull-request-lifecycle)
-  * [Pull Request Checklist](#pull-request-checklist)
-  * [Sign Your Commits](#sign-your-commits-dco)
-  * [Learn more](#learn-more)
 
 Thank you so much for your interest in contributing to this project! 💖
 
@@ -26,13 +9,6 @@ It is not required that you are expert in the used technologies.
 We will support you in your journey. The following document will describe
 how to get help and where to start.
 
-## Reporting a Security Issue ⚠️ 
-
- Do not report security vulnerabilities through public GitHub issues! Please give us time to fix the issue before disclosing it. See the [security guide](SECURITY.md) on steps to report and disclose in a responsible way.
-
-## Code of Conduct
-
-Help us to make this project open and inclusive. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Getting Started
 If you want to contribute, but do not know where to start, here are some ideas:
@@ -59,7 +35,7 @@ TODO
 
 ## Development Environment Setup
 
-Please see [Development Guide](DEVELOPMENT.md)
+TODO
 
 ## Pull Request Lifecycle
 
