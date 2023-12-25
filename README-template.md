@@ -41,10 +41,10 @@ You want to help? Great! 🙏
 
 ---
 
-## License 
+## License of Template
 
 License of this template is [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Attribution is not required although we do appreciate it. 😊
 
 ## Attribution
 
-The browser illustration is provided by IconsPNG.
+The browser illustration is freeware and provided by [IconsPNG](https://www.iconspng.com/)
