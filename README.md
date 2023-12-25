@@ -11,7 +11,9 @@ Additional information:
 
 A 1-2 line sentence describing the purpose of the project. If the project has a logo, then title and description should be center aligned ([example1](https://github.com/angular/angular), [example2](https://github.com/anfederico/Clairvoyant#readme)).
 
-![A screenshot of project](../assets/internet-browser-ui.jpg) 
+
+![A screenshot of project](https://github.com/allianz-incubator/new-project/blob/assets/internet-browser-ui.jpg) 
+
 
 ## Why MyProject? 
 
