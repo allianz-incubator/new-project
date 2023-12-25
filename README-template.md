@@ -38,8 +38,13 @@ Put a series of copy & paste commands that explain how to download and setup the
 
 You want to help? Great! 🙏
  * Check out our [contributing documentation](CONTRIBUTING.md)
- * Read the full [developer documentation](DEVELOPMENT.md) 
+
+---
 
 ## License 
 
-All files in this repository are copyrighted by Allianz and contributors, unless specified otherwise. Usage is governed by [Apache License 2.0](LICENSE). This project uses third party sources which are independently licensed by their respective providers. 
+License of this template is [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Attribution is not required although we do appreciate it. 😊
+
+## Attribution
+
+The browser illustration is provided by IconsPNG.
