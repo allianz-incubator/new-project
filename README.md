@@ -1,11 +1,3 @@
-<!-- 
-This document intends to help with the initial structure of a project readme file.
-
-Additional information:
-* How-to: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-* Example: https://github.com/matiassingers/awesome-readme
--->
-
 # MyProject 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  ![MyBadge](https://img.shields.io/badge/MyBadge-TODO-red)
 
@@ -17,7 +9,7 @@ A 1-2 line sentence describing the purpose of the project. If the project has a 
 
 ## Why MyProject? 
 
-Description of the value propositions (try to explain the user value instead of functionalities). Explain why the reader should care about this project. E.g.
+Explain why the reader should care about this project. E.g.
 
 Features:
 * amazing feature a
@@ -27,7 +19,6 @@ Features:
 ## Usage 
 
 Selective examples of what can be done with MyProject. Illustrate e.g. CLI commands or code snippets. Do not describe the full functionality, but only representative use cases for first time visitors. Put the full user documentation in separate document and link it.
-
 
 ## Setup
 
@@ -41,9 +32,12 @@ Put a series of copy & paste commands that explain how to download and setup the
 You want to help? Great! 🙏
  * Check out our [contributing documentation](CONTRIBUTING.md)
 
----
+<br>
 
 ---
+
+<br>
+<br>
 
 # Template Usage
 
@@ -55,10 +49,14 @@ Adapt the project files as needed
 * Comply with [community standards](https://opensource.guide/starting-a-project/#launching-your-own-open-source-project)
 * Achieve a positive contributor experience
 
+## Additional information:
+* How-to: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+* Example: https://github.com/matiassingers/awesome-readme
+
 ## License of Template
 
 License of this template is [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Attribution is not required although we do appreciate it. 😊
 
-## Attribution
+#### Attribution
 
 The browser illustration is freeware and provided by [IconsPNG](https://www.iconspng.com/)

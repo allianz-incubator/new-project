@@ -11,21 +11,17 @@ how to get help and where to start.
 
 
 ## Getting Started
-If you want to contribute, but do not know where to start, here are some ideas:
+If you want to contribute but do not know where to start, here are some ideas:
 
-* Write a blog post
-* Check the developer environment setup documentation for correctness and completeness
-* Answer questions on Github issues or Github Discussions
-* Help with issue triage
-* Search for issues with the labels *good first issue* or *help wanted*
+TODO
 
-If you need help to pick a issue that fits your interest do not hesitate to ask on Github Discussions.
-Once you have found an issue leave a comment that you are working on it to avoid double work.
+Once you have found an issue, leave a comment indicating that you are working on it to avoid duplicate efforts. If no issue exists yet, create one to discuss what you want to implement.
 
 ## Getting Help
 The best way to get help is:
 
 * Asking on the issue you are working on
+* Create an issue and lable it as question
 * Create a [draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests). You can add questions to specific [code lines](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request) as comments.
 * Join the weekly office hours
 
@@ -37,96 +33,42 @@ TODO
 
 TODO
 
-## Pull Request Lifecycle
 
-We follow the [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow) process
+## Pull Request Checklist 
 
-1. Create an issue, if not existing yet, to discuss what you want to implement
-2. Fork the repository and create your branch from master
-2. Regularly pull changes from origin
-4. Push changes to your fork and open a pull request 
-    * Fill in the required template
-    * Add a summary of all major changes in the description
-    * [Link](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)  the pull request and the issue being resolved
-    * Enable the option [allow maintainers edits](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork) for faster merging
-    * Apply [suggest changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request) from reviewers. You can do so directly in the Github UI or commit changes to your fork
-    * Mark each suggested change as [resolved](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#resolving-conversations)
-    * [Re-request a review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#re-requesting-a-review) when you are done with all changes
-5. Make sure automated tests do not have errors
-    * With errors a PR might be ignored and not receive reviews. 
-    * If you need a review despite test errors, then mark your PR as draft.
-
-
-## Pull Request Checklist <!-- TODO enhance this list-->
-
-* If code was added that should be tested, then tests should be added
-* If API was changed, then API documentation should be updated
-* If functionality was changed, then user documentation should be updated
+TODO
 
 
 ## Sign your Commits (DCO)
 
-For each commit in a pull request you must acknowledge the following terms and conditions:
+When contributing to this project, you must confirm your agreement to the terms and conditions of the [Developer Certificate of Origin (DCO)](https://developercertificate.org/). To do so, use the following command with the `-s` option:
 
-<!-- Copied from https://developercertificate.org/. License in text below. Do not modify. -->
 ```
-Developer Certificate of Origin
-Version 1.1
-
-Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
-
-Everyone is permitted to copy and distribute verbatim copies of this
-license document, but changing it is not allowed.
-
-
-Developer's Certificate of Origin 1.1
-
-By making a contribution to this project, I certify that:
-
-(a) The contribution was created in whole or in part by me and I
-    have the right to submit it under the open source license
-    indicated in the file; or
-
-(b) The contribution is based upon previous work that, to the best
-    of my knowledge, is covered under an appropriate open source
-    license and I have the right under that license to submit that
-    work with modifications, whether created in whole or in part
-    by me, under the same open source license (unless I am
-    permitted to submit under a different license), as indicated
-    in the file; or
-
-(c) The contribution was provided directly to me by some other
-    person who certified (a), (b) or (c) and I have not modified
-    it.
-
-(d) I understand and agree that this project and the contribution
-    are public and that a record of the contribution (including all
-    personal information I submit with it, including my sign-off) is
-    maintained indefinitely and may be redistributed consistent with
-    this project or the open source license(s) involved.
+git commit -s -m "Your commit message here"
 ```
-<!-- DCO end. Do not modify -->
+This command appends a sign-off statement, confirmung your explicit agreement to the DCO. Ensure your real name is set in the git config user.name and a valid email address in user.email. 
 
-Simplified speaking, you acknowledge that:
-1. The commit does not contain code you found on the internet e.g. StackOverflow (because you do not own the copyright)
-2. If the code was written during work hours, then you have received an *explicit* allowance by your employer to submit the code (because your employer owns the copyright)
-3. The code submitted by you can be used by others under the terms and conditions of the project license
-4. Personal data (your name) will be stored in the git history and cannot be removed
-
-The acknowledgement must be done on every commit with a sign-off statement in the commit message. E.g.
-```
-Documentation improvements
-
-Signed-off-by: Joe Doe <joe.doe@example.com>
-```
-You must use your real name. After setting `user.name` and `user.email` in git config, the sign-off process can be automated with `git commit -s`.
-
-If you forget to sign-off commits, than the pull request will be rejected by the DCO check. Please see the DCO Troubleshoot Guide (TODO) how to resolve.
-
-## Learn more <!-- Enhance this list -->
+## Learn more
 
 If you would like to learn more about the technologies that we use, check out the resources below:
 
 * [Git](https://ohshitgit.com/)
 * TODO
 
+<br>
+
+---
+
+<br>
+<br>
+
+# Template Usage
+
+## Tips
+
+* Target New Contributors: Assume readers are new to your project and may be new to open source. Craft clear, beginner-friendly instructions to make their onboarding smooth.
+* Express Gratitude: Acknowledge contributors' efforts sincerely. Motivate them by conveying appreciation from both maintainers and the community.
+* Be Comprehensive: Cover all necessary details, even if they seem redundant. Your guidelines should serve as the primary resource for interacting with the project.
+
+## Additional information:
+ * [Example](https://github.com/angular/angular/blob/main/CONTRIBUTING.md)
