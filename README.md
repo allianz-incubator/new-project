@@ -60,3 +60,4 @@ License of this template is [CC0](https://creativecommons.org/publicdomain/zero/
 #### Attribution
 
 The browser illustration is freeware and provided by [IconsPNG](https://www.iconspng.com/)
+
